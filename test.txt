@@ -2,5 +2,3 @@ Hello Git!
 
 
 New line
-
-New changes
